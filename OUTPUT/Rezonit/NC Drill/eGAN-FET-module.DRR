@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: eGAN-FET-module.PcbDoc   6/17/2022  1:49:10 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Signal Layer to Bottom Signal Layer
+ASCII RoundHoles File : eGAN-FET-module.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             48        PTH        213.91mm (8.42inch)
+T2      0.3mm (12mil)                                             Round             82        PTH        394.86mm (15.55inch)
+T3      0.5mm (20mil)                                             Round             595       PTH        948.42mm (37.34inch)
+T4      0.9mm (35mil)                                             Round             23        PTH        243.09mm (9.57inch)
+T5      1.2mm (47mil)                                             Round             12        PTH        105.74mm (4.16inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              760
+
+Total Processing Time (hh:mm:ss) : 00:00:00
