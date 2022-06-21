@@ -2,111 +2,10 @@
 FileName = eGAN-FET-module.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Signal Layer
-      File : eGAN-FET-module.GTL
+Generating : Bottom Solder
+      File : eGAN-FET-module.GBS
 
-    Adding Layer      : Top Signal Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Ground Layer
-      File : eGAN-FET-module.G1
-
-    Adding Layer      : Ground Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Power Layer
-      File : eGAN-FET-module.G2
-
-    Adding Layer      : Power Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : eGAN-FET-module.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : eGAN-FET-module.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Bottom Signal Layer
-      File : eGAN-FET-module.GBL
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Signal Layer
 
@@ -114,27 +13,10 @@ Generating : Bottom Signal Layer
 
 
 Used DCodes :
-    D12
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : eGAN-FET-module.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
+    D32
+    D33
+    D34
+    D35
 *************************************************************
 
 *************************************************************
@@ -168,13 +50,90 @@ Used DCodes :
     D29
     D30
     D31
+    D32
+    D33
+    D34
+    D35
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : eGAN-FET-module.GBS
+Generating : Top Overlay
+      File : eGAN-FET-module.GTO
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Ground Layer
+      File : eGAN-FET-module.G1
+
+    Adding Layer      : Ground Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Top Signal Layer
+      File : eGAN-FET-module.GTL
+
+    Adding Layer      : Top Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Bottom Signal Layer
+      File : eGAN-FET-module.GBL
 
     Adding Layer      : Bottom Signal Layer
 
@@ -182,9 +141,54 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D28
-    D29
-    D30
-    D31
+    D12
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : eGAN-FET-module.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : eGAN-FET-module.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Power Layer
+      File : eGAN-FET-module.G2
+
+    Adding Layer      : Power Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
 *************************************************************
 
