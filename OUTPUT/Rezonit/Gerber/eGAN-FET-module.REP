@@ -2,28 +2,6 @@
 FileName = eGAN-FET-module.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 1
-      File : eGAN-FET-module.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : eGAN-FET-module.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Signal Layer
       File : eGAN-FET-module.GTL
 
@@ -67,24 +45,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : eGAN-FET-module.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Signal Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
 Generating : Ground Layer
       File : eGAN-FET-module.G1
 
@@ -120,6 +80,28 @@ Used DCodes :
     D58
     D59
     D60
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : eGAN-FET-module.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : eGAN-FET-module.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D61
+    D62
 *************************************************************
 
 *************************************************************
@@ -182,6 +164,24 @@ Used DCodes :
     D25
     D26
     D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : eGAN-FET-module.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Signal Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D28
     D29
     D30
